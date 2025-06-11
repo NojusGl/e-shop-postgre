@@ -1,0 +1,2 @@
+
+\i drop/tables.sql
