@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
 
-public class program {
+public class Program {
     // CONNECTION
     public static void loadDriver() {
         try {
