@@ -1,5 +1,5 @@
 # Overview
-The 4th normal formal PostgreSQL database with simple Java user interface.
+The Fourth Normal Form PostgreSQL database with simple Java user interface.
 
 The server, username & password should be changed as needed in the getConnection() method.
 The database was originally hosted on the university server, and every user had their own schema (same as their username).
